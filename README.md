@@ -1,5 +1,6 @@
 - 👋 Hi, I’m @ArindamTrivedi
-- 👀 I’m interested in *connecting culture with coding* \n *-> I want to build a tech environment centered around India, and Indian languages.*
+- 👀 I’m interested in *connecting culture with coding*
+-*> I aspire to build a tech environment centered around India, and Indian languages.*
 - 🌱 I’m currently learning ...
 - 📫 How to reach me: [Instagram](https://www.instagram.com/th1_freeman/)
 - ⚡ *Big Thoughts, Big Dreams*
